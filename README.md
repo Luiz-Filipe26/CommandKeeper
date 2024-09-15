@@ -1,6 +1,6 @@
 # CommandKeeper 📝
 
-[PT-BR] O **CommandKeeper** é uma ferramenta para gerenciar e executar comandos personalizados a partir da linha de comando. Escolha seu idioma:
+[PT-BR] O **CommandKeeper** é uma ferramenta para gerenciar e executar comandos personalizados a partir da linha de comando. Aqui estão as instruções para configurar e usar o script `command_keeper.js`.
 
 [EN-US] The **CommandKeeper** is a tool for managing and executing custom commands from the command line. Here are the instructions to set up and use the `command_keeper.js` script.
 

@@ -4,7 +4,7 @@ The **CommandKeeper** is a tool for managing and executing custom commands from 
 
 ## Requirements
 
-![Nodejs](https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png)
+<img title="" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Nodejs" width="94">
 
 - **Node.js**: Minimum recommended version is **v14.x**, although it should work from **v10.x**. Install Node.js from the [official site](https://nodejs.org/) 🌐 or using a version manager like `nvm`.
 
